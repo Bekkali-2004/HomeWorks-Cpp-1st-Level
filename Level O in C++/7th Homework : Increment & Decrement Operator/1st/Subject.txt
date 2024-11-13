@@ -1,0 +1,12 @@
+1st Task : Write A Program To Read Increment and Decrement 
+2nd Task : and Print it On The Screen
+    Example -> A = 10 -> A++ = A + 1 = 11 & B = 20 -> B-- = B - 1 = 19
+        Input -> A = 10 , B = 20
+        Output -> A = 11, B = 19
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

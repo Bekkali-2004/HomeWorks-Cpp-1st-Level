@@ -1,0 +1,12 @@
+1st Task : Write The Program that inputs The Numbers of Seconds And Changes it on Days , Hours , Minutes , Seconds
+2nd Task : and Print It On screen 
+    Example -> Like Recently Example but Diffrente Way
+        Input -> 193535 <- TotalSeconds
+        Output -> 2D:5H:45M:35S
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

@@ -1,0 +1,10 @@
+1st Task : Write The Program To Ask The User To Enter 3 Numbers.
+2nd Task : Then Print The 2 Numbers , TheN Swap it Like This.
+    Example -> 10 and 20 
+            -> 20 and 20
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

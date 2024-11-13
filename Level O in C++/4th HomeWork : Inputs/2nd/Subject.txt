@@ -1,0 +1,20 @@
+Print The Program Like This And Enter He/she information:
+
+Create The Program Like This With Variables :
+
+20 +
+30 +
+10
+_______________________
+
+60
+
+(Don't Look This Code Before Finish Ur Program !)
+
+But With The Variables !!
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

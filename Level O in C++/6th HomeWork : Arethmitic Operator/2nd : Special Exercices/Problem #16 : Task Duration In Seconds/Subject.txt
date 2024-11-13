@@ -1,0 +1,12 @@
+1st Task : Write A Program To Calculate The Task Duration in Seconds 
+2nd Task : and Print it On The Screen
+    Example -> Given The Time Duration Of And Task in The Number Of Days, Hours , Minutes and Seconds
+        Input -> NumberOfDays = 2 , NumberOfHours = 5 , NumberOfMinutes = 45 , NumberOfSeconds = 35
+        Output -> 193535 Seconds
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

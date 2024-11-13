@@ -1,0 +1,12 @@
+1st Task : Write a Program To Calculate CircleArea Inscribed in oscesls Traingle
+2nd Task : Then Print it on the Screen
+    Example -> Math :< CircleArea = PI * (b * b) / 4 * ((2 * a - b) / (2 * a + b))
+        Input -> a = 10 , b = 15 , PI = 3.14
+        Output -> 25.232142857
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

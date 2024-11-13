@@ -1,0 +1,12 @@
+1st Task : Write A Program To Ask User To Enter: Primies, Nickels, Dimes, Qouarters , Dollar
+2nd Task : TheN Calculate The ToTal all There
+    Example -> Primies = 1, Nickels = 5, Dimes = 10, Qouarters = 25, Dollar = 100 -> on the priemes
+        Input -> 5 / 5 / 5 / 5 / 5
+        Output -> 705 Primies / 7.05 Dollar
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

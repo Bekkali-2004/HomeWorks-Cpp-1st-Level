@@ -1,0 +1,12 @@
+1st Task : Write A Program To Read A Loan Amount and Ask How Many The Months You Need To Set The Loan
+2nd Task : Then Calculate The Monthly Installement Amount
+    Example -> Same Example Recently But How MuchPerMonth ?
+        Input -> 5000 / 10
+        Output -> 500$
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

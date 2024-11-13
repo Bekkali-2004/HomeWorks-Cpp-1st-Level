@@ -1,0 +1,12 @@
+1st Task : Write The Program For Calculate The Traingle Area
+2nd Task : The Print it On The Screen
+    Example -> (Math Time YaY !!!) : Traingle Area = 1 / 2 * a * h
+        Input -> a = 10 / h = 8 
+        Output -> 40
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

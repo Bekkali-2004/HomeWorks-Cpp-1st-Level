@@ -1,0 +1,12 @@
+1st Task : Write A Program To Read a BillValue and add Services Fee and Sales Tax 
+2nd Task : and Print The TotalBill on The Screen
+    Example ->  A Resturant charges 10% Services Fee and 16% Sales Taxes 
+        Input -> 100$
+        Output -> 127.6$
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

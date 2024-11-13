@@ -1,0 +1,12 @@
+1st Task : Write A Program to Calculate Circle Area Inscribed in Square
+2nd Task : Then Print it on the screen
+    Example -> Math Time Again ! -> Circle area = (PI * A * A) / 4
+        Input -> A = 10 / PI is Constant on 3.14
+        Output -> 78.5
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

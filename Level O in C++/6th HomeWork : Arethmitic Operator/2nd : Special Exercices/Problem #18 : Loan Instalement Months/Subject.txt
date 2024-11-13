@@ -1,0 +1,12 @@
+1st Task : Write The Program To read A Loan Amount And Monthly Payement 
+2nd Task : And Calculate How Many Months You Need To Sattle The Loan
+    Example -> We Have 5K For Return and We Return EveryMonth 500$ Soo ... 5K / 500 = 10 -> 500$ * 10Months = 5K$ Soo We Return all Money in 10 Months 
+        Input -> 5K$ / 500$ Per Month
+        Output -> 10Months
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

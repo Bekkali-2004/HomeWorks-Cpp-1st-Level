@@ -1,0 +1,12 @@
+1st Task : Write A Program To Ask The User To Enter "Number"
+2nd Task : The Print The Number The Number"2, Number"3, Number"4
+    Example -> Number * number = number"2
+        Input -> 3
+        Output -> 9, 27, 81
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

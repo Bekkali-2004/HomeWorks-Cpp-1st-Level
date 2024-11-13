@@ -1,0 +1,11 @@
+1st Task : Write The Program To Ask The User To Enter 3 Marks (Notes Exams !)
+2nd Task : Then Print The Averange Of Entered The Marks.
+
+Example -> 1st Mark : 10 / 2nd Mark = 10 / 3rd Mark = 10
+    -> 10 + 10 + 10 = 30 
+    -> 30 / 3(Total Marks) = 10 <- Averange Mark
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

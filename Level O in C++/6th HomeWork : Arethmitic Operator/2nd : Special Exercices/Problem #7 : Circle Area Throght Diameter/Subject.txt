@@ -1,0 +1,12 @@
+1st Task : Write The Program to Calculate Circle Area Trought Diameter
+2nd Task : Then Print on screen
+    Example -> Math Time : Circle area = (PI * DPow2) / 4 
+        Input -> 10
+        Output -> 7.85
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

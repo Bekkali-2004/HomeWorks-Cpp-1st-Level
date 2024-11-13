@@ -1,0 +1,12 @@
+1st Task : Write The Program To Calculate Rectangle Area.  
+2nd Task : Print it on The Screen.
+    Example -> 10 / 20 
+            -> (Math Time Yay !!) -> Area Rectangle is : A * B = Area mPow2
+            -> 10 * 20 = 200 mPow2
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

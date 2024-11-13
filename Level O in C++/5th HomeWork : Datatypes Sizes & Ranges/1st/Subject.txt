@@ -1,0 +1,24 @@
+Print The Program Like This :
+
+*****************
+Name : Bekkali
+Age : 20
+City : Stehat
+Coutry : MA
+Monthly Salary : 0
+Yearly Salary : 0
+Gender : M
+Married : 0
+******************
+
+But With The Variables !!
+
+(Don't Look This Code Before Finish Ur Program !)
+
+
+Note !!!
+Give The Exact Value Or Size For Data Type 
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
