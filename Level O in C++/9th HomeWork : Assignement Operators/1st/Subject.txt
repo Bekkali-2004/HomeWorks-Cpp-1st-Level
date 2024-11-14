@@ -1,0 +1,12 @@
+1st Task : Write A Program For Calcualte simple and Short way in Assignement Operator
+2nd Task : and Print all this +-*/% Operators On The Screen
+    Example -> a = 10 , b = 20 -> a += b -> 30
+        Input -> A = 10, B = 20
+        Output -> 30 / 10 / 200 / 10 / 10
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
