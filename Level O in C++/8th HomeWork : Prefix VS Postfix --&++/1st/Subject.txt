@@ -1,8 +1,8 @@
-1st Task : 
-2nd Task : 
-    Example -> 
-        Input ->
-        Output ->
+1st Task : Write A program n Prefix and Postfix 
+2nd Task : and The Prit it on Screen
+    Example -> A++ & ++A / B = A++ & B = ++A
+        Input -> A = 10
+        Output -> A = 11 & B = ++A -> 10/ B = A++ = 12
 
 
 (Don't Look This Code Before Finish Ur Program !)
