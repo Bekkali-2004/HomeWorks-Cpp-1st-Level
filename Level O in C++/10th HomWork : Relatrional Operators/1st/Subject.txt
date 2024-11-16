@@ -1,0 +1,12 @@
+1st Task : 
+2nd Task : 
+    Example -> 
+        Input ->
+        Output ->
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
