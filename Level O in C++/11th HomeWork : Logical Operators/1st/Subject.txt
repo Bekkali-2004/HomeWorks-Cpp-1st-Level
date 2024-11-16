@@ -1,0 +1,14 @@
+1st Task : Write A Program To Print all Logical Operator 
+2nd Task : and Your Way Thinking
+    Example -> !(True) -> False / !(False) -> True / True && False -> False / False || True -> True
+        Input -> A = 1 / B = 0
+        Output -> 0 / 1 / 0 / 1 
+
+If U R Success in mission and ur way don't worry my code is complete in side operator logical , and U Focus in Ur mission Here
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
