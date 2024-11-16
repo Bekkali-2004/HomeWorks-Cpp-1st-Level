@@ -1,8 +1,8 @@
-1st Task : 
-2nd Task : 
-    Example -> 
-        Input ->
-        Output ->
+1st Task : Write A Program For Try All The Relation Operator
+2nd Task : and The Print IT ON The Screen "0" -> False /  "1" True
+    Example -> I Don't Have Any Idea But Use Ur Imagination :)
+        Input -> A = 10 / B = 20
+        Output -> "0" / "1" / "0" / "1" / "0" / "1" / "0"
 
 
 (Don't Look This Code Before Finish Ur Program !)
