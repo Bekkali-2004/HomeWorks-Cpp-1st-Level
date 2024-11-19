@@ -1,0 +1,7 @@
+Ur Task Is -> 7 = 7 or 7 > 5 -> True
+Translate This Number To Operator Logical Code 
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
