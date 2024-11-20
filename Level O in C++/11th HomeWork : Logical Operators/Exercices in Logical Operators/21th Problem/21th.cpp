@@ -4,9 +4,7 @@ using namespace std;
 
 int main (){
 
-    int A = 7, B = 5;
-
-    cout << ((A < A) || (A > B)) << endl;
-
+    cout << !(1 || 0) << endl;
+    
     return 0;
 }

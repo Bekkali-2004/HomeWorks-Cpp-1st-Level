@@ -4,9 +4,10 @@ using namespace std;
 
 int main (){
 
-    int A = 7, B = 5;
-
-    cout << ((A < A) || (A > B)) << endl;
+    bool A = true;
+    int B = 0;
+    
+    cout << (A && B) << endl;
 
     return 0;
 }

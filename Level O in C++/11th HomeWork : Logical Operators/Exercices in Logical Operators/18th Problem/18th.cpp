@@ -1,12 +1,13 @@
 #include <iostream>
 
+
 using namespace std;
 
 int main (){
 
-    int A = 7, B = 5;
+    int A = 0;
 
-    cout << ((A < A) || (A > B)) << endl;
+    cout << (A || A) << endl;
 
     return 0;
 }
