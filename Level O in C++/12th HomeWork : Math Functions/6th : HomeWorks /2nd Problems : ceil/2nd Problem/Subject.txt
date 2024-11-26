@@ -1,0 +1,14 @@
+The Theme : "Circle Area Throught Diameter"
+
+1st Task : Write The Program To Calculate Circle Area Throught Diameter
+2nd Task : Then Print The Result On The Screen
+    Example -> Area = (PI * (D * D) / 4)
+        Input -> 10
+        Output -> ceil(78,54) ~ 79
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

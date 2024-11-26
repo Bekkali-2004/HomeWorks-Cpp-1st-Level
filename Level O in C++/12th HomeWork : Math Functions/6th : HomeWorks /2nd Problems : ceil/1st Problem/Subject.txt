@@ -1,0 +1,14 @@
+The Theme : "Circle Area"
+
+1st Task :  Write A Program To Calculate Circle Area Then Area 
+2nd Task : Then Print it On The Screen 
+    Example -> PI = 3.14 , Area = PI * r * r
+        Input -> r = 5
+        Output -> ceil(78,58) ~ 79 
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

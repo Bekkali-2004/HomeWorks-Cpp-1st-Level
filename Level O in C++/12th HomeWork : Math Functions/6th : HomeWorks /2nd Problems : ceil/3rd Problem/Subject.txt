@@ -1,0 +1,14 @@
+The Theme : "Circle Area Inscribed in A Square"
+
+1st Task : Write A Program To Calculate Circle Area Circle Inscribed in A Square
+2nd Task : and Then Print it On The Screen 
+    Example -> Area = (PI * ((A / 2) * (A / 2))) Or Area = (PI * (A * A) / 4)
+        Input -> A = 10
+        Output -> 78,54
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
