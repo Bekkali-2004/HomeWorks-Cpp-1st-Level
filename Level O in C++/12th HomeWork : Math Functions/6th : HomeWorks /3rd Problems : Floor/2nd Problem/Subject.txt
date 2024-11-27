@@ -1,0 +1,14 @@
+The Theme : "Circle Area Inscribed in a ISOSCELES Traingle"
+
+1st Task : Write The Program To Calculate The Circle Area Inscribed in a isosceles
+2nd Task : And Print it on The Screen
+    Example -> Area = ( PI * ((B * B) / 4) * ((2 * A - B) / (2 * A + B)))
+        Input -> A = 20 , B = 10
+        Output -> 47.124 ~ 47
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

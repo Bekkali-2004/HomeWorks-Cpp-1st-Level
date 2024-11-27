@@ -1,10 +1,10 @@
-The Theme : "Circle Area Along The Circumferce"
+The Theme : "Circle Area Along The Circumference"
 
-1st Task : Write The Program To Calculate Circle Area Along The
-2nd Task : 
-    Example -> 
-        Input ->
-        Output ->
+1st Task : Write The Program To Calculate Circle Area Along The Circumference
+2nd Task : and Print it on The Screen
+    Example -> Area = ((L * L) / (4 * PI))
+        Input -> L = 20
+        Output -> Area = 31.831 ~ 31
 
 
 (Don't Look This Code Before Finish Ur Program !)

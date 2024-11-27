@@ -1,0 +1,14 @@
+The Theme : "Power Of 2 and 3 and 4"
+
+1st Task : Write The Program To Ask The User To Enter : Number 
+2nd Task : And The Print it on The Screen
+    Hint -> Num"2 , Num"3 , Num"4 
+        Input -> 3
+        Output -> 9 , 27 , 81 and Use The Round Func Hehe
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
