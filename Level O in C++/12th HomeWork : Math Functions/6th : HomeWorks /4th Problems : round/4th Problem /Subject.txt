@@ -1,0 +1,14 @@
+The Theme : " Task Duration in Seconds "
+
+1st Task : Write A Program To Calculate The Task Duration in Seconds 
+2nd Task : Print it on The Screen
+    Example -> :)
+        Input -> DD = 2 , HH = 5, MM = 45, SS = 35
+        Output -> 193535 Seconds
+
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

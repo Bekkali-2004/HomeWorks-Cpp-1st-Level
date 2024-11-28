@@ -2,9 +2,9 @@ The Theme : "Power Of M"
 
 1st Task : Write The Program To Ask The User To Enter : Number & M
 2nd Task : And Print it on The Screen
-    Example -> 
-        Input ->
-        Output ->
+    Example -> Is Easy
+        Input -> Power = Number Entered From User = 2 and M = 3
+        Output -> Result = 9
 
 
 (Don't Look This Code Before Finish Ur Program !)
