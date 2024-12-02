@@ -4,7 +4,7 @@ The Theme : " Task Duration in Seconds "
 2nd Task : Print it on The Screen
     Example -> :)
         Input -> DD = 2 , HH = 5, MM = 45, SS = 35
-        Output -> 193535 Seconds
+        Output -> Round(193535 Seconds)
 
 
 (Don't Look This Code Before Finish Ur Program !)

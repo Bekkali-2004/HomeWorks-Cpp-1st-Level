@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include <unistd.h> // <stdio.h>
 
 ft_putchar(char c){
     write(1, &c, 1);
@@ -6,4 +6,4 @@ ft_putchar(char c){
 
 int main (){
     ft_putchar('a');
-}
+} //ft_putchar()
