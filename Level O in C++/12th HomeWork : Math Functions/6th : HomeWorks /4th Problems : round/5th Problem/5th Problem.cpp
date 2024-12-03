@@ -15,10 +15,11 @@ int main (){
     cin >> TotalSeconds;
 
     int NumberOfDays = round(floor(TotalSeconds / SecondsPerDay));
-    int Remainder = (TotalSeconds % SecondsPerDay);
+    int Remainder = TotalSeconds % SecondsPerDay;
     int NumberOfHours = round(floor(Remainder / SecondsPerHour));
     Remainder = Remainder % SecondsPerHour;
     int NumberOfMinutes = round(floor(Remainder / SecondsPerMinutes));
+    Remainder = Remainder % SecondsPerMinutes;
     int NumberOfSeconds = Remainder;
 
     cout << NumberOfDays << ":" << NumberOfHours << ":" << NumberOfMinutes << ":" << NumberOfSeconds << endl; 

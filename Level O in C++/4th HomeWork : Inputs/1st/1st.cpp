@@ -15,6 +15,8 @@ int main (){
 
     cout << "Enter Ur name :" << endl;
     cin >> name;
+    cout << "Enter Ur age :" << endl;
+    cin >> Age;
     cout << "Enter Ur Month Salary :" << endl;
     cin >> monthlySalary;
     cout << "Enter Ur Yearly Salary :" << endl;
