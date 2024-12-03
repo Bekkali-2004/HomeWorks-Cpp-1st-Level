@@ -2,6 +2,13 @@
 
 using namespace std;
 
+struct MoreInfoAdress
+{
+    string Adress;
+    string NumberContact;
+
+};
+
 struct SalaryInfo
 {
     float monthlySalary;
@@ -19,6 +26,7 @@ struct OwnerInfo
     char Gender;
     string RUMarried;
     SalaryInfo Salary;
+
 };
 
 
@@ -26,6 +34,7 @@ struct OwnerInfo
 int main (){
 
     OwnerInfo OwnerInfo;
+    MoreInfoAdress InfoAdress;
 
     cout << "Enter Ur name :" << endl;
     cin >> OwnerInfo.name;
@@ -43,6 +52,10 @@ int main (){
     cin >> OwnerInfo.Gender;
     cout << "Are U Married ? :" << endl;
     cin >> OwnerInfo.RUMarried;
+    cout << "Enter Ur Adress : " << endl;
+    cin >> InfoAdress.Adress;
+    cout << "Enter Ur Number Contact :" << endl;
+    cin >> InfoAdress.NumberContact;
 
     cout << "*****************" << endl;
     cout << "Name : " << OwnerInfo.name << endl;
@@ -53,6 +66,8 @@ int main (){
     cout << "Yearly Salary : " << OwnerInfo.Salary.yearlySalary << endl;
     cout << "Gender : " << OwnerInfo.Gender <<endl;
     cout << "Married : " << OwnerInfo.RUMarried << endl;
+    cout << "Ur Adress is : " << InfoAdress.Adress << endl; 
+    cout << "Ur Cotact is : " << InfoAdress.NumberContact << endl;
     cout << "******************" << endl;
     return 0;
 }
