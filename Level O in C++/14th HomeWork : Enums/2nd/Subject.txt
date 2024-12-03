@@ -1,0 +1,22 @@
+Print The Program Like This And Enter He/she information:
+
+But With Use The Enums
+
+*****************
+Name : ?
+Age : ?
+City : ?
+Coutry : ?
+Monthly Salary : ?
+Yearly Salary : ?
+Gender : ?
+Married : ?
+******************
+
+But With The Variables !!
+
+(Don't Look This Code Before Finish Ur Program !)
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !
