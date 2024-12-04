@@ -3,6 +3,9 @@
 
 using namespace std;
 
+enum MarriedStatus { Married, Single };
+enum Gender { Male, Female };
+
 struct MoreInfoAdress {
     string Adress;
     string NumberContact;
@@ -21,8 +24,6 @@ struct OwnerInfo {
     SalaryInfo Salary;
 };
 
-enum MarriedStatus { Married, Single };
-enum Gender { Male, Female };
 
 int main() {
     OwnerInfo OwnerInfo;
