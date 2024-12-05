@@ -1,0 +1,1 @@
+-> Convert string str1 = "123.123" to int , double and float.

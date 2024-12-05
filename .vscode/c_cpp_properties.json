@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include", // Example system include path
+                "/path/to/your/library/**" // Path to your library
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++", // Or your compiler path
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
