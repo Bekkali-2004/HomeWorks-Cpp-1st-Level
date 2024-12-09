@@ -1,0 +1,14 @@
+Enter Ur Full Name : 
+Mohamed ELBAKKALI ELISSAOUI
+Please Enter The Number String : 
+12
+ Please Enter The NumStr : 
+20
+-----------------------------------
+The Length Of Str1 is 27
+Characters at 0, 2, 4, 7 are : Mhm 
+Charactenating NumberString & NumberStr = 240
+
+------------------------------------------------------
+
+That's is :)
