@@ -1,0 +1,14 @@
+Create A Program Print Like This Output:
+**************************
+    Name : Bekkali
+    Age : 20
+    Country : MA 
+    City : Stehat
+**************************
+(Don't Look This Code Before Finish Ur Program !)
+
+With Fuction Void
+
+----------------------------------------------------------------------------
+And Finally Any Way For Write Ur Code is Right Way For Learning C++,
+ But Only One Codition is The Output is Same in This Subject !

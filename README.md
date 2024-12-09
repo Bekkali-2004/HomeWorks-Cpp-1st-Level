@@ -11,7 +11,7 @@ Welcome to the **C++ Programming Course**! This repository contains all the mate
   - Variables, Data Types, and Operators ✅
   - Input/Output ✅
 - Control Flow and Loops ❌
-- Functions and Modular Programming ❌
+- Functions and Modular Programming ✅
 - Object-Oriented Programming (OOP) ❌
   - Classes, Objects, and Inheritance ❌
 - Advanced Topics ❌
