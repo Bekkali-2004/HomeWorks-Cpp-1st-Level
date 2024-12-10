@@ -1,0 +1,11 @@
+This Task Hehe :
+
+Enter the 1st number: 
+10
+Enter the 2nd number: 
+20
+
+-----------------------------------------
+30
+
+with Functions :) Whenever you want to use it Procedure or Function :)  
