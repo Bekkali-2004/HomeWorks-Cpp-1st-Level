@@ -3,8 +3,9 @@
 
 using namespace std;
 
-string UserName(string name;) {
+string UserName() { // Function
 
+    string name;
     cout << "Enter Your FullName: " << endl;
     getline(cin, name);
     cout << "\n--------------------------------" << endl;
@@ -13,7 +14,7 @@ string UserName(string name;) {
 
 int main() {
 
-    UserName(name);
+    cout << UserName() << endl;
 
     return 0;
 }

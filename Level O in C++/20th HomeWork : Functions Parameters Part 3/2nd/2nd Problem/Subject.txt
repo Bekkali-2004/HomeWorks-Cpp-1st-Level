@@ -1,1 +1,1 @@
-Write a program to Ask The User His Name And Print it on The Screen With The Function and Parameters.
+Write a program to Ask The User His Name And Print it on The Screen With The Function.
