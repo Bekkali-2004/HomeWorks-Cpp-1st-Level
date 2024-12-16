@@ -1,0 +1,1 @@
+Write The Program To Calculate The Task Duration In Seconds With The Parameter and Function.

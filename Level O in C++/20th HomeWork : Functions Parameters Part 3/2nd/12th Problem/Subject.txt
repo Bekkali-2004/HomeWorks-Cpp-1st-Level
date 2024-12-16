@@ -1,0 +1,1 @@
+Write A Program To Ask The User To Enter Power Of M : Number & M Without Parameter With Function.

@@ -1,0 +1,1 @@
+Write A Program To Ask The User TO Enter The Numbers power Of 2 and 3 and 4, Without Parameters and Preducerually function.

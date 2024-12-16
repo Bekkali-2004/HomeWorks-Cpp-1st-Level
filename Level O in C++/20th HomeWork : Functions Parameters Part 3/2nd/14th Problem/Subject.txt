@@ -1,0 +1,1 @@
+Write a Program That's Input The Numbers of Seconds to print Days and hours and minutes and seconds , with Function and Without Parameters.
