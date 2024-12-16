@@ -1,0 +1,1 @@
+Write A Program 2 Global Variables and 2 Local Variables and Print Them.
