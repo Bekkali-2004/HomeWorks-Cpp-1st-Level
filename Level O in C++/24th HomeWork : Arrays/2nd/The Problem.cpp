@@ -4,7 +4,7 @@ using namespace std;
 
 int main (){
 
-    int x[3];
+    float x[3];
 
     cout << "Enter The 1st Grade : " << endl;
     cin >> x[0];
