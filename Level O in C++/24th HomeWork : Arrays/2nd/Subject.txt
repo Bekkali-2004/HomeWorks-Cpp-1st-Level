@@ -1,0 +1,10 @@
+Enter The 1st Grade : 
+10
+Enter The 2st Grade : 
+10
+Enter The 3st Grade : 
+10
+*********************
+The Averange Of Grades is 10
+
+With Array Way
