@@ -1,0 +1,4 @@
+-> Write A Program To read The ATM PIN Code From The User 
+-> Then Check If The PIN Code = 1234
+-> To Show The Balance The User , Other Wise Print Invalid PIN Code
+With The Procedural And Functon Method

@@ -1,0 +1,5 @@
+-> Write A Program To Ask The User To Enter : M1 AND M2 AND M3 
+-> Then Print The Average Of The Three Numbers
+-> And If The Average Is Greater Than 50 Then Print "Pass"
+-> Else Print "Fail"
+With The Procedural And Functon Method

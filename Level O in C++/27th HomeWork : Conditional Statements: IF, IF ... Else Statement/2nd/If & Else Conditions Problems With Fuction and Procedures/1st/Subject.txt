@@ -1,0 +1,6 @@
+-> Ask The User To Enter His / Her Age
+-> Ask The User if He / She has a Driving License or Not
+-> If The User is Older Than 18 Years and Has a Driving License, Print "You Can Drive"
+-> Else Print "You Can Not Drive"
+
+With The Procedural And Functon Method

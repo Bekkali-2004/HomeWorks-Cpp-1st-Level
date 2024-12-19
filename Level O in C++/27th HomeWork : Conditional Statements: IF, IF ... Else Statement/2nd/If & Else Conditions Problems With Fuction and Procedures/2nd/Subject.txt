@@ -1,0 +1,4 @@
+-> Write A Program To Ask The Use To Ente The Mark 
+-> Then Prit it "Pass" If The Mark Is Greater Than 50
+-> Else Print "Fail"
+With The Procedural And Functon Method
