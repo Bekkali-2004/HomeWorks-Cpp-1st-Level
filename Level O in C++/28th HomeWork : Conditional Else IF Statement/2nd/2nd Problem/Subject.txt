@@ -1,0 +1,7 @@
+-> Write A Program To Ask The User To Enter : TotalSales
+-> The Commission As One Percentage The Total Sales Amount , you all Need is to decide Which Percentage to use Of The Following :
+-> 1M The Percentage is 1%
+-> 500k - 1M The Percentage is 2%
+-> 100k - 500k The Percentage is 3%
+-> 50k - 100k The Percentage is 5%
+-> Otherwise The Percentage is 0%
