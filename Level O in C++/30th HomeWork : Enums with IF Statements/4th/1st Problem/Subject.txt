@@ -1,0 +1,9 @@
+-> Write A Program To Ask The User To Enter A Num1 , Num2 and Operation And Print The Result.
+-> Then Perform Type As Follow.
+-> "+" : Addition
+-> "-" : Subtraction
+-> "*" : Multiplication
+-> "/" : Division
+-> "%" : Modulus
+
+With Swatch Case Statement.

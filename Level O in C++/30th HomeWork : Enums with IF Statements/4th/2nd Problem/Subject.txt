@@ -1,0 +1,10 @@
+-> Write A Program To Ask The User To Enter : Day
+-> if Day is 1 Then Print "Sunday"
+-> if Day is 2 Then Print "Monday"
+-> if Day is 3 Then Print "Tuesday"
+-> if Day is 4 Then Print "Wednesday"
+-> if Day is 5 Then Print "Thursday"
+-> if Day is 6 Then Print "friday"
+-> if Day is 7 Then Print "Saturday"
+-> if Day is Any Other Number Then Print "Invalid Day Number"
+With Swatch Case Statement.
