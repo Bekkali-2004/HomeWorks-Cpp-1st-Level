@@ -1,0 +1,7 @@
+Write A Program To Sum Even Numbers untill N Numbers Using While Loop Like This :
+0
+2
+4
+6
+8
+10

@@ -1,0 +1,3 @@
+Write A Program to Print Factorial of N using While Loop Like This:
+Enter a positive integer: 10
+Factorial of 10 is: 3628800

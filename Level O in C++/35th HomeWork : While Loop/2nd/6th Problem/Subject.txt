@@ -1,0 +1,7 @@
+Write A Program To Ask The user To Enter Number and M Of Power using While Loop Like This:
+
+Enter The Number Of Power M : 
+10
+Enter The Number Of Power Num : 
+2
+The Result Is : 1024

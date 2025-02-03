@@ -1,0 +1,16 @@
+Write A Program To Read The Numbers From The User And Sum This , Keep Reading Until User Enter 99 then Print it With Using While Loops Like This.
+
+Enter a number: 10
+Enter a number: 20
+Enter a number: 30
+Enter a number: 40
+Enter a number: 50
+Enter a number: 60
+Enter a number: 70
+Enter a number: 80
+Enter a number: 90
+Enter a number: 100
+Enter a number: 200
+Enter a number: -99
+Enter a number: 99
+Sum = 651
