@@ -1,9 +1,17 @@
-#include <unistd.h> // <stdio.h>
+#include<unistd.h>
 
-ft_putchar(char c){
-    write(1, &c, 1);
+void ft_print_reverse_alphabet(void)
+{
+     char i = 'z';
+     while (i >= 'a'){
+        write(1, &i, 1);
+        i--;
+ }
+        write(1, "\n", 1);
 }
+int main()
+{
+    ft_print_reverse_alphabet();
+    return 0;
 
-int main (){
-    ft_putchar('a');
-} //ft_putchar()
+}

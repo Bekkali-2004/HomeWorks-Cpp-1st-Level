@@ -1,0 +1,25 @@
+Read 5 Numbers and Sum Them as Long as the Number is Below 50 use For loop and Continue Statement.
+
+input:
+10
+20
+30
+40
+50
+Output:
+100
+
+---------------------------------------
+
+Enter The Numbers For Sum But Under 50 : 
+20
+Enter The Numbers For Sum But Under 50 : 
+13
+Enter The Numbers For Sum But Under 50 : 
+50
+The Number is Grater than 50
+Enter The Numbers For Sum But Under 50 : 
+10
+Enter The Numbers For Sum But Under 50 : 
+20
+Result : 63
